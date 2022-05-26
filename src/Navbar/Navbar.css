@@ -1,0 +1,48 @@
+
+  .h{
+      background-color: #7a5f41;
+      margin-top: 10px;
+  }  
+
+
+
+
+  
+.item{
+
+    float:left;
+    width: 20%;
+    
+    
+    box-shadow: 0 0 40px 40px  #ab9a89 inset, 0 0 0 0  #ab9a89;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    background-color: #28252b;
+    color:#7a5f41;
+    
+}
+.item  :hover {
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
+
+
+
+
+
+
+.head{
+    width:100%
+
+}
+.route{
+    width:100%
+}
+.route a{
+color: black;
+}
+img{
+    background-color: #4682B4;
+    float: left;
+    height: 60px;
+    width: 60px;
+}
